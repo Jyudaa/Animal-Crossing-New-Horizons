@@ -1,0 +1,12 @@
+@font-face {
+	src: url('finkheavy.ttf');
+	font-family: somethingelse;
+}
+
+	div {
+	}
+
+	p {
+	  font-family: somethingelse;
+	  color: silver;	
+	}
