@@ -3,10 +3,37 @@
 	font-family: somethingelse;
 }
 
-	div {
+	body {
+		
+		
+		
+  
 	}
+	
+	.bg-image {
+		height: 800px; 
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.title {
+		background-image: url('Title.jpg');
+	}
+	.departure {
+		background-image: url('departure.jpg');
+	}
+	
+	
+	#borderimg1 { 
+		border: 10px solid transparent;
+		padding: 15px;
+		border-image: url(wood1.png) 15 round;	
+		width: 400px;
+	}
+/*
 
 	p {
 	  font-family: somethingelse;
 	  color: silver;	
 	}
+*/
